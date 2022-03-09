@@ -1,0 +1,21 @@
+
+#body {
+    background-color: yellowgreen;
+}
+
+#timer {
+    font-size: 400px;
+}
+
+#btnRow {
+    color: red;
+    font-size: 32px;
+}
+
+#dropRow {
+    margin-top: 50px;
+}
+
+#dropdownMenuButton {
+    margin: 0 15px;
+}
